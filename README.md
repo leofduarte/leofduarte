@@ -25,16 +25,12 @@ _____________|','   ///_/-------------/   |
 
 
 ```javascript
-const thai = {
-  pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
+const leandro = {
+  code: [Javascript, HTML, CSS, PHP, Golang],
+  tools: [React, Shadcn/ui, Styled-Components, (a bit of Laravel and Node)],
   architecture: ["microservices", "event-driven", "design system pattern"],
-  techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "RailsGirls POA"
-                      },
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+
+ challenge: "deepen my knowledge of backend technologies such as node and laravel",
+    funFact: "I'm a fan of the series 'Dark' and 'Breaking Bad'",
 }
 ```
