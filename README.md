@@ -28,9 +28,9 @@ _____________|','   ///_/-------------/   |
 const me = {
     education: "UnderGraduate",
     otherAlias: "Full Stack Developer",
-    codesIn: ["Javascript", "HTML", "CSS", "PHP"],
-    toolsUsing: ["React", "Gsap", "Shadcn/ui", "TailwindCss", "Firebase", "Figma", "MySQL",],
-    currentlylearning: ["Laravel", "Node + Express", "Golang"],
+    codesIn: ["Javascript", "HTML", "CSS", "PHP", (a bit of) "Golang"],
+    toolsUsing: ["React", "MySQL",  "Firebase", "Figma", "TailwindCss", "Gsap", "Shadcn/ui"],
+    currentlylearning: ["Laravel", "Node + Express"],
 
     challenge: "Learning new technologies and improving my skills",
     funFact: "I'm a fan of the series 'Dark' and 'Breaking Bad'",
