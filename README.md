@@ -25,7 +25,7 @@ _____________|','   ///_/-------------/   |
 
 
 ```javascript
-const leandro = {
+const me = {
     education: "UnderGraduate",
     otherAlias: "Full Stack Developer",
     codesIn: ["Javascript", "HTML", "CSS", "PHP"],
