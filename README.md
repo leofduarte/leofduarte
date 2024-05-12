@@ -22,7 +22,7 @@ _____________|','   ///_/-------------/   |
               |==========='
 ``````
 
-![alt text](https://github.com/leofduarte/leofduarte/blob/main/image.jpg?raw=true)
+![alt text](https://github.com/leofduarte/leofduarte/blob/main/logo.png?raw=true)
 
 
 
