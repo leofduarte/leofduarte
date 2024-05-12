@@ -1,6 +1,7 @@
 ``````
 Hi. I'm a developer 👋
 
+
                              \\\\\\\
                             \\\\\\\\\\\\
                           \\\\\\\\\\\\\\\
@@ -27,7 +28,6 @@ _____________|','   ///_/-------------/   |
 ```javascript
 const me = {
     education: "UnderGraduate",
-    otherAlias: "Full Stack Developer",
     codesIn: ["Javascript", "HTML", "CSS", "PHP", (a bit of) "Golang"],
     toolsUsing: ["React", "MySQL",  "Firebase", "Figma", "TailwindCss", "Gsap", "Shadcn/ui"],
     currentlylearning: ["Laravel", "Node + Express"],
