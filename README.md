@@ -22,10 +22,6 @@ _____________|','   ///_/-------------/   |
               |==========='
 ``````
 
-![alt text](https://github.com/leofduarte/leofduarte/blob/main/logo.png?raw=true)
-
-
-
 <!--
 **leofduarte/leofduarte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
