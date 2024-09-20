@@ -1,5 +1,5 @@
 ``````
-Hi. I'm a developer 👋
+Hi. 👋
 
 
                              \\\\\\\
@@ -23,17 +23,3 @@ _____________|','   ///_/-------------/   |
               |==========='
 
 ``````
-
-
-```javascript
-const me = {
-    education: "UnderGraduate",
-    codesIn: ["Javascript", "HTML", "CSS", "PHP", (a bit of) "Golang"],
-    toolsUsing: ["React", "MySQL",  "Firebase", "Figma", "TailwindCss", "Gsap", "Shadcn/ui"],
-    currentlyLearning: ["Laravel", "Node + Express"],
-
-    challenge: "Learning new technologies and improving my skills",
-    funFact: "I'm a fan of the series 'Dark' and 'Breaking Bad'",
-    currentFocus: "deepening knowledge of backend technologies such as Node and Laravel",
-}
-```
